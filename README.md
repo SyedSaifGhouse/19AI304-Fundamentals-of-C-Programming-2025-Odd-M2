@@ -57,8 +57,10 @@
   Stop
 # Program:
 ```
-#include<stdio.h>
-int main(){
+#include <stdio.h>
+int main() {
+    printf("Name: SYED SAIF SYED GHOUSE\n");
+    printf("Register Number: 212224230286\n");
     float math,science,english,average;
     printf("Enter marks for Math, Science and English: ");
     scanf("%f %f %f",&math,&science,&english);
@@ -75,7 +77,7 @@ int main(){
 }
 ```
 # Output:
-<img width="650" height="261" alt="image" src="https://github.com/user-attachments/assets/3fdbdf46-0d00-4021-9d3a-3efab70055bb" />
+<img width="833" height="405" alt="Screenshot 2025-12-05 215158" src="https://github.com/user-attachments/assets/45e6a4c7-c75e-429e-b178-fb93cde2d0c0" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -111,6 +113,8 @@ Thus, the program was implemented and executed successfully, and the required ou
 ```
 #include<stdio.h>
 int main(){
+    printf("Name: SYED SAIF SYED GHOUSE\n");
+    printf("Register Number: 212224230286\n");
     int number=15,i;
     for(i=1;i<=10;i++){
         printf("%d x %d = %d\n",number,i,number*i);
@@ -119,7 +123,7 @@ int main(){
 }
 ```
 # Output:
-<img width="661" height="491" alt="image" src="https://github.com/user-attachments/assets/9b173ec9-85d3-476e-acd4-27986e763eca" />
+<img width="830" height="461" alt="Screenshot 2025-12-05 215309" src="https://github.com/user-attachments/assets/074a6722-6079-48f0-a92c-e3a13cfe4c56" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -164,8 +168,10 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 # Program:
 ```
-#include<stdio.h>
-int main(){
+#include <stdio.h>
+int main() {
+    printf("Name: SYED SAIF SYED GHOUSE\n");
+    printf("Register Number: 212224230286\n");
     int n, i = 2, f = 0;
     scanf("%d", &n);
     while(i <= n - 1){
@@ -181,10 +187,9 @@ int main(){
         printf("%d is not a prime number.\n", n);
     return 0;
 }
-
 ```
 # Output:
-<img width="520" height="267" alt="image" src="https://github.com/user-attachments/assets/3aeb69bf-653c-4f3e-a32f-dc79d048c0b2" />
+<img width="832" height="260" alt="Screenshot 2025-12-05 215457" src="https://github.com/user-attachments/assets/5d739559-28dd-4964-aca9-9d897a146c16" />
 
 # Result: 
 Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -234,9 +239,10 @@ Thus, the program was implemented and executed successfully, and the required ou
   Stop
 # Program:
 ```
-#include<stdio.h>
-
-int main(){
+#include <stdio.h>
+int main() {
+    printf("Name: SYED SAIF SYED GHOUSE\n");
+    printf("Register Number: 212224230286\n");
     int n, i, j, k;
     scanf("%d", &n);
     
@@ -260,10 +266,9 @@ int main(){
     
     return 0;
 }
-
 ```
 # Output:
-<img width="685" height="432" alt="image" src="https://github.com/user-attachments/assets/0a4392de-c935-4b60-ad91-e3b2086bd412" />
+<img width="832" height="382" alt="Screenshot 2025-12-05 215604" src="https://github.com/user-attachments/assets/b167c7f8-6ec9-45e2-983f-cdab7cbda25b" />
 
 # Result: 
   Thus, the program was implemented and executed successfully, and the required output was obtained.
@@ -319,9 +324,10 @@ int main(){
   Stop
 # Program:
 ```
-#include<stdio.h>
-
-int main(){
+#include <stdio.h>
+int main() {
+    printf("Name: SYED SAIF SYED GHOUSE\n");
+    printf("Register Number: 212224230286\n");
     int i, j;
     printf("0\n");
     for(i = 7; i >= 1; i--){
@@ -334,11 +340,11 @@ int main(){
     }
     return 0;
 }
-
 ```
 
 # Outcome:
-<img width="509" height="386" alt="image" src="https://github.com/user-attachments/assets/350008ba-9051-40d5-b613-01de603798dd" />
+<img width="830" height="423" alt="Screenshot 2025-12-05 215653" src="https://github.com/user-attachments/assets/01874262-04b8-4f66-b952-c332bd285569" />
+
 
 # Result:
   Thus, the program was implemented and executed successfully, and the required output was obtained.
